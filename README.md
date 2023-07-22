@@ -2,8 +2,8 @@
   
 ![image](https://github.com/pabloatrujilloe/pabloatrujilloe/assets/125674912/784b2bac-cbd0-46d9-88dd-cfa85f169f2b)
 
-- 🌱 I’m currently learning ...
-- Java y Spring boot
+- 🌱 I’m currently learning 
+- Java y Spring
 
 - 📫 How to reach me 🪙
 - +56942781112
